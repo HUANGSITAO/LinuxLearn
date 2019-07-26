@@ -5,4 +5,6 @@ class CTest
 		~CTest();
 
 		void print();
+
+		void print2();
 };
